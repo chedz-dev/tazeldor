@@ -1,0 +1,26 @@
+{
+  "name": "Tazeldor",
+  "version": "1.0.0",
+  "description": "First node Project",
+  "keywords": [
+    "test"
+  ],
+  "homepage": "https://github.com/chedz-dev/tazeldor#readme",
+  "bugs": {
+    "url": "https://github.com/chedz-dev/tazeldor/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chedz-dev/tazeldor.git"
+  },
+  "license": "ISC",
+  "author": "Exequetor",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
